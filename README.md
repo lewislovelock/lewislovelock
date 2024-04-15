@@ -33,7 +33,7 @@ class Profile:
     def say_hi(self):
         print(f"👋 Hi there, my name is {self.name} and I am a {self.role}.")
         print(f"💬 I speak {', '.join(self.languages)} and my hobbies include {', '.join(self.hobbies)}.")
-        print(f"🧑🏻‍💻 Skills： {', '.join(self.skills)}.")
+        print(f"🧑🏻‍💻 Skills {', '.join(self.skills)}.")
         print(f"📚 Currently learning: {', '.join(self.learning)} 🤩.")
         print("😄 Thanks for dropping by, hope we will build something that makes the world better 🚀.")
 
@@ -43,7 +43,7 @@ me = Profile(
     languages=["Chinese", "English"],
     hobbies=["Coding🧑‍💻", "Hip-hop🎵", "Basketball🏀"],
     skills=["Python", "React", "Machine Learning", "Linux"],
-    learning= ["Rust", "Golang", "Penetration Testing"]
+    learning=["Rust", "Golang", "Penetration Testing"]
 )
 
 me.say_hi()
