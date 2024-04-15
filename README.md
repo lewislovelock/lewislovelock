@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 from typing import List
 
-class SoftwareEngineer:
+class Profile:
 
     def __init__(self, name: str, role: str, languages: List[str], hobbies: List[str], skills: List[str], learning: List[str]):
         self.name = name
@@ -28,16 +28,16 @@ class SoftwareEngineer:
         self.languages = languages
         self.hobbies = hobbies
         self.skills = skills
-        self.learning = self.skills + learning
+        self.learning = self.skills + learning 
 
     def say_hi(self):
         print(f"👋 Hi there, my name is {self.name} and I am a {self.role}.")
         print(f"💬 I speak {', '.join(self.languages)} and my hobbies include {', '.join(self.hobbies)}.")
-        print(f"🧑🏻‍💻 Code： {', '.join(self.skills)}.")
-        print(f"📚 Learning: {', '.join(self.learning)} 🤩.")
+        print(f"🧑🏻‍💻 Skills： {', '.join(self.skills)}.")
+        print(f"📚 Currently learning: {', '.join(self.learning)} 🤩.")
         print("😄 Thanks for dropping by, hope we will build something that makes the world better 🚀.")
 
-me = SoftwareEngineer(
+me = Profile(
     name="Lewis Liu",
     role="Software Engineer",
     languages=["Chinese", "English"],
