@@ -10,7 +10,7 @@
   <a href="https://www.linkedin.com/in/lewis-liu-7147392b9/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin" alt="LinkedIn" />
   </a>
-  <a href="https://twitter.com/lewislovelock">
+  <a href="https://twitter.com/lewis1ove1ock">
     <img src="https://img.shields.io/twitter/follow/lewis1ove1ock?style=social" alt="Twitter" />
   </a>
   <a href="mailto:lewisjianjian@gmail.com">
