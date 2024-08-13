@@ -1,4 +1,10 @@
-# 🌟 Hi there! 🌟
+```
+                                      __                 _      __                  
+                                     / /   ___ _      __(_)____/ /   ____ _   _____ 
+                                    / /   / _ \ | /| / / / ___/ /   / __ \ | / / _ \
+                                   / /___/  __/ |/ |/ / (__  ) /___/ /_/ / |/ /  __/
+                                  /_____/\___/|__/|__/_/____/_____/\____/|___/\___/
+```                                              
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=lewislovelock&color=brightgreen" alt="Profile Views" /> 
