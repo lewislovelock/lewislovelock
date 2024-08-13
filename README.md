@@ -1,4 +1,4 @@
-# 🌟 Welcome to My GitHub Profile! 🌟
+# 🌟 Hi there! 🌟
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=lewislovelock&color=brightgreen" alt="Profile Views" /> 
@@ -28,10 +28,6 @@
   </a>
 </p>
 
----
-
-## 🛠️ Technologies & Tools:
-
 <p align="center">
   <img src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript" />
   <img src="https://img.icons8.com/color/48/000000/python.png" alt="Python" />
@@ -46,10 +42,10 @@
 
 ---
 
-## 📊 GitHub Stats:
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=lewislovelock&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=lewislovelock&&rank_icon=github&theme=radical" alt="GitHub Stats" />
+<!--   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra\&rank_icon=github) -->
+
 </p>
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=lewislovelock&theme=radical" alt="GitHub Streak" />
